@@ -1,0 +1,36 @@
+# To see what the colors look like check this out: http:www.minecraftwiki.netwikiFormatting_codes#Color_codes
+# &b = Aqua 
+# &0 = Black
+# &l = Bold
+# &3 = Dark Aqua
+# &1 = Dark Blue
+# &8 = Dark Gray 
+# &2  = Dark Green
+# &4 = Dark Red
+# &6 = Gold
+# &7 = Gray
+# &a = Green
+# &o = Italic
+# &k = Random character(s)
+# &c = Red
+# &r = Reset 	
+# &m = Strike
+# &n = Underline
+# &f = White
+# &e = Yellow
+
+#How much every player will start with
+starting-balance: 1000
+
+#The currency of this economy
+currency: coins
+
+#Messages the server will send to a player when payments occur or an error occurs
+messages:
+    not-enough-money-message: &4You do not have enough money.
+    successful-payment: &aPayment successful.
+    successful-transaction: &aTransaction successful.
+#List of every player and their info, handled by plugin
+#Do not touch if you do not know what you are doing!
+players:
+

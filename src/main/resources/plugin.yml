@@ -1,0 +1,4 @@
+name: MoneyBukkit2
+main: me.skipperguy12.MoneyBukkit2.plugin.MoneyBukkitPlugin
+version: .1
+description: MoneyBukkit remade by skipperguy12
