@@ -1,4 +1,4 @@
-![MoneyBukkit2](http://i.imgur.com/OxXao7H.png)
+![MoneyBukkit2](http://i.imgur.com/9mfVcsC.png)
 =========
 
 MoneyBukkit2 is a rewrite of the original MoneyBukkit by Samkio.
