@@ -9,7 +9,7 @@ Current features include:
 * Listanable change in money event (MoneyBukkitPlayerMoneyChangeEvent)
 
 
-MoreSettings is open source and is available under the GNU General Public License v3.
+MoneyBukkit is open source and is available under the GNU General Public License v3.
 
 Compiling
 ---------
